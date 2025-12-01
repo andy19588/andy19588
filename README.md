@@ -27,7 +27,7 @@
 ###
 
 <h5 align="left">
-Department of Computer Science, NCHU (Sophomore)<br>
+Department of Computer Science, NCHU (Junior)<br>
 Striving to improve my programming skills
 </h5>
 
